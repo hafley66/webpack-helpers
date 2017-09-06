@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    "transform-function-bind",
+    "transform-regenerator",
+    ["transform-runtime", {
+      "helpers": false,
+      "regenerator": true
+    }]
+  ],
+  "presets": [
+    "latest",
+    "stage-3",
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "watch": [
+    "./config/shared",
+    "./config/vendor",
+    "./config/utils.js"
+  ]
+}
